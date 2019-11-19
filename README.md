@@ -110,6 +110,8 @@ Sjá Uglu seinna í vikunni.
   - HTTP, AJAX og Eslint
 * [Fyrirlestur 12, 11. nóvember 2019](fyrirlestrar/12/)
   - Fallaforritun, Hlutir, fleiri Tól, HTML5
+* [Fyrirlestur 13, 11. nóvember 2019](fyrirlestrar/13/)
+  - Upprifjun á námsefni, uppsetning á prófi (síðasti fyrirlestur)
 
 
 
@@ -131,6 +133,7 @@ Sjá Uglu seinna í vikunni.
 * [Verkefni 8](https://github.com/Wolfcoder13/vef1-2019-v8), sett fyrir 28. október, skilist 7. nóvember fyrir miðnætti.
   - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v8-synilausn)
 * [Verkefni 9](https://github.com/Wolfcoder13/vef1-2019-v9), sett fyrir 4. nóvember, skilist 14. nóvember fyrir miðnætti.
+  - [Sýnilausn](https://github.com/Wolfcoder13/vef1-2019-v9-synilausn)
 * [Verkefni 10](https://github.com/Wolfcoder13/vef1-2019-v10), sett fyrir 13. nóvember, skilist 21. nóvember fyrir miðnætti.
 
 
