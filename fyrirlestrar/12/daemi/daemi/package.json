@@ -25,7 +25,7 @@
     "eslint": "^5.9.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "node-sass": "^4.10.0",
+    "node-sass": "^4.13.1",
     "rollup": "^0.67.1",
     "rollup-plugin-babel": "^4.0.3",
     "stylelint": "^9.8.0",
